@@ -1,5 +1,5 @@
 # blueblockai-
 blueblockai-NFT
-digital art
+digital art,
 NFT. creator
 NFT. collector
